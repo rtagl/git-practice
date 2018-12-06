@@ -1,0 +1,3 @@
+Name: Ric Taglietti
+Age: 24
+Favorite Color: Green
